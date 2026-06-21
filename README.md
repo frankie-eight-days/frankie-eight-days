@@ -2,7 +2,8 @@
 
 **Electrical engineer** who designs the hardware inside real products — and builds software at the hardware × AI edge.
 
-- 🔧 **EE @ Apple** — Watch electronics: RF coexistence, antenna de-sense, final-assembly test & integration
+- 🔧 **Systems EE @ Apple** — Watch electronics: RF coexistence, antenna de-sense, final-assembly test & integration
+- 🤖 **AI enthusiast** — building agentic tooling and AI-powered apps
 - ⚡ Previously **Tesla** — automotive low-voltage boards, owned end-to-end: architecture → schematic (Altium) → simulation (LTSpice) → layout → validation
 - 🎓 B.Eng. Electrical, Memorial University of Newfoundland · M.Eng. Engineering Management, Oregon State
 - 🛰️ Into: RF & antennas, PCB design, embedded systems, agentic AI tooling
